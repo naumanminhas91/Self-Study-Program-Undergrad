@@ -1,13 +1,13 @@
-**Comprehensive Study Plan for 2025-2027**
+**Comprehensive Study Plan for 2025-2028**
 
 ---
 
 **Overview:**
-This plan is designed to cover the first-year courses typically offered in Physics, Mathematics, Literature, Sociology, and Philosophy at top universities. The courses are distributed across quarters, with three courses per quarter, allowing for a 2-week break after each quarter.
+This plan is designed to cover the first-year courses typically offered in Physics, Mathematics, Literature, Sociology, and Philosophy at top universities. The courses are distributed across sessions, with three courses per session, allowing for a 1-month break after each session. There are 3 sessions per year: September-November, January-March, and May-July.
 
-**Quarterly Course Schedule:**
+**Session Course Schedule:**
 
-**Q1 2025 (Jan-Mar):**
+**Session 1 2025 (Sep-Nov):**
 
 1. **Classical Mechanics (Physics)**
 
@@ -27,11 +27,11 @@ This plan is designed to cover the first-year courses typically offered in Physi
    - *Goals:* Cultivate skills to critically analyze literary texts.
    - *Resources:* [Yale University: Introduction to Theory of Literature](https://online.yale.edu/courses/introduction-theory-literature), [University of Tübingen: Lecture Course: Introduction to Literary Studies](https://timms.uni-tuebingen.de/tp/UT_20230126_001_ws2223litstud_0001), [NPTEL: Introduction to Literary Theory](https://archive.nptel.ac.in/courses/109/104/109104135/), [Harvard University: Masterpieces of World Literature](https://www.harvardonline.harvard.edu/course/masterpieces-world-literature)
 
-**Break:** Apr (2 weeks)
+**Break:** December (1 month)
 
 ---
 
-**Q2 2025 (Apr-Jun):**
+**Session 2 2026 (Jan-Mar):**
 
 1. **Electromagnetism (Physics)**
 
@@ -51,11 +51,11 @@ This plan is designed to cover the first-year courses typically offered in Physi
    - *Goals:* Gain historical context and appreciate foundational literary works.
    - *Resources:* [History of English Language and Literature (IIT Madras)](https://www.classcentral.com/course/swayam-history-of-english-language-and-literature-14108), [American Passages: A Literary Survey](https://www.learner.org/series/american-passages-a-literary-survey/), [Introduction to Theory of Literature (Yale)](https://oyc.yale.edu/english/engl-300)
 
-**Break:** Jul (2 weeks)
+**Break:** April (1 month)
 
 ---
 
-**Q3 2025 (Jul-Sep):**
+**Session 3 2026 (May-Jul):**
 
 1. **Linear Algebra (Mathematics)**
 
@@ -75,11 +75,11 @@ This plan is designed to cover the first-year courses typically offered in Physi
    - *Goals:* Enhance academic communication skills.
    - *Resources:* [English Composition I (Duke University)](https://www.coursera.org/learn/english-composition), [Academic English: Writing Specialization (UC Irvine)](https://www.coursera.org/specializations/academic-english), [Writing in English at University (Lund University)](https://www.coursera.org/learn/writing-english-university), [Writing in the Sciences (Stanford University)](https://www.coursera.org/learn/writing-in-the-sciences), [College Writing 101 (Udemy)](https://www.udemy.com/course/college-writing-success/)
 
-**Break:** Oct (2 weeks)
+**Break:** August (1 month)
 
 ---
 
-**Q4 2025 (Oct-Dec):**
+**Session 4 2026 (Sep-Nov):**
 
 1. **Probability and Statistics (Mathematics)**
 
@@ -98,11 +98,11 @@ This plan is designed to cover the first-year courses typically offered in Physi
    - *Topics:* Romanticism, Victorian literature, and early 20th-century works.
    - *Goals:* Continue building historical and critical understanding of literature.
 
-**Break:** Jan 2026 (2 weeks)
+**Break:** December (1 month)
 
 ---
 
-**Q1 2026 (Jan-Mar):**
+**Session 5 2027 (Jan-Mar):**
 
 1. **Introduction to Sociology (Sociology)**
 
@@ -122,11 +122,11 @@ This plan is designed to cover the first-year courses typically offered in Physi
    - *Goals:* Learn to conduct sociological research.
    - *Resources:* [Understanding Research Methods (SOAS University of London)](https://www.coursera.org/learn/research-methods), [Qualitative Research Methods (University of Amsterdam)](https://www.coursera.org/learn/qualitative-methods), [Methods and Statistics in Social Sciences Specialization (University of Amsterdam)](https://www.coursera.org/specializations/social-science), [Introduction to Social Research Methods (The University of Edinburgh)](https://www.edx.org/learn/research/the-university-of-edinburgh-introduction-to-social-research-methods)
 
-**Break:** Apr (2 weeks)
+**Break:** April (1 month)
 
 ---
 
-**Q2 2026 (Apr-Jun):**
+**Session 6 2027 (May-Jul):**
 
 1. **Sociological Theory (Sociology)**
 
@@ -146,11 +146,11 @@ This plan is designed to cover the first-year courses typically offered in Physi
    - *Goals:* Enhance skills in statistical application.
    - *Resources:* [Methods and Statistics in Social Sciences Specialization (University of Amsterdam)](https://www.coursera.org/specializations/social-science), [Data Analysis for Social Scientists (MIT OpenCourseWare)](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/), [Basic Statistics (University of Amsterdam)](https://www.coursera.org/learn/basic-statistics), [Statistics and Probability (Khan Academy)](https://www.khanacademy.org/math/statistics-probability)
 
-**Break:** Jul (2 weeks)
+**Break:** August (1 month)
 
 ---
 
-**Q3 2026 (Jul-Sep):**
+**Session 7 2027 (Sep-Nov):**
 
 1. **Introduction to Philosophy (Philosophy)**
 
@@ -168,11 +168,11 @@ This plan is designed to cover the first-year courses typically offered in Physi
    - *Topics:* Propositional logic, argument analysis, and formal reasoning.
    - *Goals:* Learn to construct and evaluate arguments.
 
-**Break:** Oct (2 weeks)
+**Break:** December (1 month)
 
 ---
 
-**Q4 2026 (Oct-Dec):**
+**Session 8 2028 (Jan-Mar):**
 
 1. **History of Ancient Philosophy (Philosophy)**
 
@@ -189,11 +189,11 @@ This plan is designed to cover the first-year courses typically offered in Physi
    - *Topics:* Consciousness, identity, and the nature of thought.
    - *Goals:* Explore philosophical questions about the mind.
 
-**Break:** Jan 2027 (2 weeks)
+**Break:** April (1 month)
 
 ---
 
-**Q1 2027 (Jan-Mar):**
+**Session 9 2028 (May-Jul):**
 
 1. **General Chemistry (Physics)**
 
@@ -210,7 +210,7 @@ This plan is designed to cover the first-year courses typically offered in Physi
    - *Topics:* Major works and themes from global literary traditions.
    - *Goals:* Expand literary perspective beyond Western traditions.
 
-**Break:** Apr (2 weeks)
+**Program Complete!**
 
 ---
 
@@ -220,9 +220,65 @@ This plan is designed to cover the first-year courses typically offered in Physi
 - Build interdisciplinary skills in analysis, research, and critical thinking.
 - Create a balanced and sustainable learning schedule.
 
+---
+
+## Subject Curriculum Tables
+
+### Physics
+
+| Course | Description | Resources |
+|--------|-------------|-----------|
+| Classical Mechanics | Study of motion, forces, energy, and momentum in physical systems | [MIT OCW: 8.01SC Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/), [Yale: PHYS 200](https://oyc.yale.edu/physics/phys-200), [Stanford: Classical Mechanics](https://theoreticalminimum.com/courses/classical-mechanics/2011/fall) |
+| Electromagnetism | Understanding electric fields, magnetic fields, circuits, and Maxwell's equations | [MIT OCW: Physics II](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/), [Coursera: Electricity and Magnetism](https://www.coursera.org/specializations/introduction-to-electricity-magnetism), [Dr. Andrew Mitchell's Lectures](https://www.youtube.com/playlist?list=PLotxEOxVaaoLMvrDSSr_nsQDiKcVu8d7u) |
+| General Chemistry | Atomic structure, chemical bonding, reactions, and fundamental chemistry principles | N/A |
+| Introduction to Computer Programming | Programming basics, algorithms, and computational applications in physics | N/A |
+
+### Mathematics
+
+| Course | Description | Resources |
+|--------|-------------|-----------|
+| Calculus I | Limits, derivatives, differentiation applications, and introduction to integration | [MIT OCW: 18.01SC](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/), [Khan Academy: Calculus 1](https://www.khanacademy.org/math/calculus-1), [Professor Leonard](https://www.youtube.com/playlist?list=PLF797E961509B4EB5), [UNC Chapel Hill](https://www.youtube.com/watch?v=HfACrKJ_Y2w) |
+| Calculus II | Advanced integration techniques, applications of integrals, and infinite series | [Professor Leonard's Calculus II](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-), [Dr. Valerie Hower](https://www.youtube.com/playlist?list=PLpcwHaLYiaEWLlLEdH2gpK2J7gTAXzB5N), [University of Utah MATH 1220](https://www.math.utah.edu/lectures/math1220.php), [UMass Lowell](https://faculty.uml.edu/Jennifer_GonzalezZugasti/Calculus%20II%20Video%20Lectures/Calculus%20II%20Video%20Lectures.aspx) |
+| Linear Algebra | Matrices, determinants, vector spaces, eigenvalues, and linear transformations | [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6), [Khan Academy](https://www.khanacademy.org/math/linear-algebra), [Gilbert Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D), [MIT OCW: 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) |
+| Discrete Mathematics | Logic, set theory, combinatorics, graph theory, and mathematical reasoning | [Kimberly Brehm](https://www.youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz), [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS), [Full Course](https://www.youtube.com/watch?v=UwYJUKVc-Hs), [MIT OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/), [Coursera](https://www.coursera.org/learn/discrete-mathematics), [Wolfram U](https://www.wolfram.com/wolfram-u/courses/mathematics/introduction-to-discrete-mathematics/) |
+| Probability and Statistics | Basic probability theory, statistical methods, and data analysis techniques | [MIT OCW: Probability](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/), [Harvard Stat 110](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo), [Harvard edX](https://pll.harvard.edu/course/introduction-probability-edx), [MIT: Probabilistic Systems](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video_galleries/video-lectures/), [Wolfram U](https://www.wolfram.com/wolfram-u/courses/mathematics/introduction-to-probability/) |
+| Introduction to Abstract Algebra | Groups, rings, fields, and fundamental algebraic structures | [MIT OCW: Modern Algebra](https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/), [NPTEL](https://onlinecourses.nptel.ac.in/noc24_ma58/preview), [Udemy: Group Theory](https://www.udemy.com/course/abstract-algebra-a-crash-course-in-group-theory/), [Harvard](https://people.math.harvard.edu/~ctm/home/text/class/harvard/55a/08/html/home/course/course.pdf) |
+
+### Literature
+
+| Course | Description | Resources |
+|--------|-------------|-----------|
+| Introduction to Literary Studies | Literary analysis techniques, close reading methods, and understanding genres | [Yale: Theory of Literature](https://online.yale.edu/courses/introduction-theory-literature), [University of Tübingen](https://timms.uni-tuebingen.de/tp/UT_20230126_001_ws2223litstud_0001), [NPTEL](https://archive.nptel.ac.in/courses/109/104/109104135/), [Harvard: World Literature](https://www.harvardonline.harvard.edu/course/masterpieces-world-literature) |
+| Survey of English Literature I | Major works and authors from early periods through the 18th century | [IIT Madras](https://www.classcentral.com/course/swayam-history-of-english-language-and-literature-14108), [American Passages](https://www.learner.org/series/american-passages-a-literary-survey/), [Yale](https://oyc.yale.edu/english/engl-300) |
+| Academic Writing and Composition | Essay structure, argumentative writing, and rhetorical analysis skills | [Duke University](https://www.coursera.org/learn/english-composition), [UC Irvine](https://www.coursera.org/specializations/academic-english), [Lund University](https://www.coursera.org/learn/writing-english-university), [Stanford](https://www.coursera.org/learn/writing-in-the-sciences), [Udemy](https://www.udemy.com/course/college-writing-success/) |
+| Survey of English Literature II | Romanticism, Victorian literature, and early 20th-century literary movements | N/A |
+| World Literature | Major works and themes from diverse global literary traditions | N/A |
+
+### Sociology
+
+| Course | Description | Resources |
+|--------|-------------|-----------|
+| Introduction to Sociology | Key sociological theories, social structures, and cultural dynamics | [Yale: Modern Social Theory](https://oyc.yale.edu/sociology/socy-151/lecture-1), [Alison](https://alison.com/course/introduction-to-sociology), [NPTEL](https://www.nptelvideos.com/course.php?id=634), [YouTube Playlist](https://www.youtube.com/playlist?list=PLtMRjzg3I_PURIs_sqg4Dj_CWeHcj0ydF) |
+| Social Problems | Analysis of contemporary societal issues like inequality, crime, and health | [The Open University](https://www.open.edu/openlearn/society-politics-law/sociology/social-problems-who-makes-them/content-section-0), [FutureLearn](https://www.futurelearn.com/courses/understanding-and-solving-social-problems), [Alison](https://alison.com/course/sociology-social-issues-and-change), [NYU GovLab](https://blog.thegovlab.org/post/this-free-online-class-will-teach-anyone-how-to-solve-societal-problems), [UC Berkeley](https://freevideolectures.com/course/3591/social-psychology) |
+| Research Methods in Sociology | Quantitative and qualitative research techniques, survey design, data collection | [SOAS University](https://www.coursera.org/learn/research-methods), [University of Amsterdam](https://www.coursera.org/learn/qualitative-methods), [Coursera Specialization](https://www.coursera.org/specializations/social-science), [University of Edinburgh](https://www.edx.org/learn/research/the-university-of-edinburgh-introduction-to-social-research-methods) |
+| Sociological Theory | Classical and contemporary sociological theoretical frameworks | [Yale University](https://oyc.yale.edu/sociology/socy-151), [University of Amsterdam](https://www.coursera.org/learn/classical-sociological-theory), [Yale YouTube](https://www.youtube.com/playlist?list=PL37FC9556148B7E1F) |
+| Cultural Anthropology | Human cultures, traditions, and practices across different societies | [ANTH101](https://anth101.com/), [Alison Diploma](https://alison.com/course/diploma-in-cultural-anthropology), [MIT OCW](https://ocw.mit.edu/courses/21a-00-introduction-to-anthropology-spring-2022/) |
+| Statistics for Social Sciences | Data analysis and statistical interpretation for social science research | [University of Amsterdam](https://www.coursera.org/specializations/social-science), [MIT OCW](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/), [Basic Statistics](https://www.coursera.org/learn/basic-statistics), [Khan Academy](https://www.khanacademy.org/math/statistics-probability) |
+
+### Philosophy
+
+| Course | Description | Resources |
+|--------|-------------|-----------|
+| Introduction to Philosophy | Key philosophical questions, methods of inquiry, and critical thinking | [University of Edinburgh](https://www.coursera.org/learn/philosophy), [University of Oxford](https://www.youtube.com/playlist?list=PLKuMaHOvHA4pl2k1JNikMzccot_Y_vlYm), [Yale: Political Philosophy](https://oyc.yale.edu/political-science/plsc-114), [MITx](https://mitxonline.mit.edu/courses/course-v1:MITxT+24.00x/) |
+| Ethics | Moral theories, ethical dilemmas, and frameworks for decision-making | N/A |
+| Logic | Propositional logic, argument analysis, and formal reasoning techniques | N/A |
+| History of Ancient Philosophy | Pre-Socratic to Hellenistic philosophers and origins of Western philosophy | N/A |
+| Political Philosophy | Justice, liberty, state authority, and analysis of political systems | N/A |
+| Philosophy of Mind | Consciousness, personal identity, and the nature of thought and cognition | N/A |
+
 **How to Use This Plan:**
 
-- Print and display the quarterly schedule.
+- Print and display the session schedule.
 - Focus on weekly goals for each course.
-- Celebrate milestones after each quarter to stay motivated!
+- Celebrate milestones after each session to stay motivated!
 
